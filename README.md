@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiran-Ahir
-- 👀 I’m interested in ...Android, Learning new things
-- 🌱 I’m currently learning ...Android and .net
+- 👀 I’m interested in ... Learning new things
+- 🌱 I’m currently learning ... Android and .net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...kiranj695@gmail.com
 
