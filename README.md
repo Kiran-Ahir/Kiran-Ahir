@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kiran-Ahir
 - 👀 I’m interested in ... Learning new things
-- 🌱 I’m currently learning ... Android and .net
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Android and Spring (Java)
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...kiranj695@gmail.com
 
 <!---
